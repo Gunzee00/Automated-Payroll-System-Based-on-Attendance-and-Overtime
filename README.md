@@ -2,4 +2,9 @@
 
 A backend system built with Golang that manages attendance, payroll, overtime, and reimbursement with JWT authentication and audit logging.
 
-## Features
+## Tech Stack
+- **Language**: Golang
+- **Database**: PostgreSQL
+- **ORM**: GORM
+- **Auth**: JWT
+
