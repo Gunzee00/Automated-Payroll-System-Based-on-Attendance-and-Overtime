@@ -11,7 +11,7 @@ A backend system built with Golang that manages attendance, payroll, overtime, a
 ## Installation
 
 git clone https://github.com/Gunzee00/Automated-Payroll-System-Based-on-Attendance-and-Overtime.git
-cd project-name
+**cd project-name
 go mod tidy
 Database:
 This project uses two separate PostgreSQL databases. 
